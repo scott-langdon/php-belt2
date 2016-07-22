@@ -75,8 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'port'=> '8889',
-	'hostname' => '127.0.0.1',
+	'hostname' => 'http://ec2-52-42-56-243.us-west-2.compute.amazonaws.com/',
 	'username' => 'root',
 	'password' => 'root',
 	'database' => 'login',
